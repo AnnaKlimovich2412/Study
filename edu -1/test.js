@@ -32,6 +32,7 @@ decr = 10;
 
 
 console.log(incr++);
+var = TextDecoderStream; 
 console.log(decr--);
 
 console.log(incr);
